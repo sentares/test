@@ -1,0 +1,42 @@
+table {
+    font-family: 'Inter', sans-serif;
+    margin-top: 50px;
+}
+
+.text {
+    width: 2%;
+}
+
+.he {
+    width: 8%;
+    background: rgb(242, 3, 255) ;
+}
+
+.block {
+    background: rgb(255, 0, 0);
+    color: white
+}
+
+.pink {
+    
+    background: rgb(242, 3, 255);
+}
+
+.long { 
+    width: 8%;
+}
+
+.yellow {background:yellow ;}
+    
+.blue {
+    background-color: rgb(64, 119, 238);
+}
+
+.green  {background-color: rgb(60, 232, 60); 
+
+}
+
+.bi { background-color: rgb(60, 232, 60);
+ width: 7%;
+ 
+}
